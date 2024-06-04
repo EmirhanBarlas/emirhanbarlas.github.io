@@ -100,13 +100,13 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Karaman - Sınav Koleji | middle school',
+      institution: 'Karaman - Sınav Koleji | Middle School',
       degree: 'Degree',
       from: '2016',
       to: '2020',
     },
     {
-      institution: 'Hürriyet Anadolu Lisesi | high school',
+      institution: 'HAL | High School',
       degree: 'Degree',
       from: '2020',
       to: '2024',
