@@ -97,6 +97,13 @@ const CONFIG = {
       to: '2024',
       companyLink: 'https://splendidnw.com',
     },
+    {
+      company: 'Textile Company',
+      position: 'IT - Yönetici (Information System)',
+      from: 'June 2024',
+      to: '',
+      companyLink: 'https://buferatextile.com.tr',
+    },
   ],
   educations: [
     {
