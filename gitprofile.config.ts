@@ -92,7 +92,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'SPLENDID NETWORK',
-      position: 'Founder',
+      position: 'Founder - First Start Up Project',
       from: 'April 2021',
       to: '2024',
       companyLink: 'https://splendidnw.com',
