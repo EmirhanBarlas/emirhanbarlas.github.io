@@ -99,7 +99,7 @@ const CONFIG = {
     },
     {
       company: 'Textile Company',
-      position: 'IT - Yönetici (Information System)',
+      position: 'IT - Manager (Information System)',
       from: 'June 2024',
       to: '',
       companyLink: 'https://buferatextile.com.tr',
@@ -117,6 +117,12 @@ const CONFIG = {
       degree: 'Degree',
       from: '2020',
       to: '2024',
+    },
+    {
+      institution: 'ISTANBUL UNIVERCİTY | COMPUTER E.',
+      degree: 'Student',
+      from: '2024',
+      to: '2028',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
