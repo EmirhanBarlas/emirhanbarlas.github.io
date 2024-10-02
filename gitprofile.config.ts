@@ -49,7 +49,7 @@ const CONFIG = {
     imageURL: 'https://cdn.discordapp.com/attachments/1178720464655364268/1212153703180796025/pp_2.jpg?ex=65f0cd1b&is=65de581b&hm=c1fa3524c5170ba3562f756487189db67fadfbf0f5869da113e141ca2b9bc8a2&',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/emirhanbarlas/',
+    linkedin: 'emirhanbarlas',
     twitter: '',
     mastodon: '',
     facebook: '',
