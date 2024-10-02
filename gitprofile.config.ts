@@ -54,7 +54,7 @@ const CONFIG = {
     mastodon: '',
     facebook: '',
     instagram: '',
-    youtube: 'emirhanbarlas', // example: 'pewdiepie'
+    youtube: '',
     dribbble: '',
     behance: '',
     medium: 'barlas',
